@@ -1,4 +1,6 @@
 <?php
+$warn=$pth."[{$red}!{$pth}]{$red} WARNING!!\n{$kn}[{$red}!{$kn}] this is an illegal program !!\n{$kn}[{$red}!{$kn}] the risk is entirely borne by the user !!{$pth}".$t;
+
 $big="
 {$tr}██████{$pth}╗{$tr} ██{$pth}╗{$tr} ██████{$pth}╗{$tr}████████{$pth}╗{$tr} ██████{$pth}╗{$tr} ██{$pth}╗{$tr}  ██{$pth}╗{$tr}███████{$pth}╗{$tr}███{$pth}╗{$tr}   ██{$pth}╗{$tr}
 ██{$pth}╔══{$tr}██{$pth}╗{$tr}██{$pth}║{$tr}██{$pth}╔════╝╚══{$tr}██{$pth}╔══╝{$tr}██{$pth}╔═══{$tr}██{$pth}{$tr}╗{$tr}██{$pth}║{$tr} ██{$pth}╔╝{$tr}██{$pth}╔════╝{$tr}████{$pth}╗{$tr}  ██{$tr}║{$tr}
