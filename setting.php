@@ -23,7 +23,8 @@ $xrp =$br."
 ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝{$tr}
       AUTO CLAIM RIPPLE FAUCET{$red} v.1.0{$pth}
 ╔═════════════════════════════════════════╗
-║• Created :$ijo TN.Cocentz  •{$tr}Thank ALLAH SWT{$pth} ║
-║• Youtube :{$red} Cocentz 404{$ijo} •Enjoy Your Life{$pth} ║
-║• Support :{$tr} AW 2000$pth &$tr MK KHAIRIL$pth         ║
+║• Created:$ijo TN.Cocentz{$pth}  • {$tr}Thank ALLAH SWT{$pth} ║
+║• Youtube:{$red} Cocentz 404{$pth} • {$ijo}Enjoy Your Life{$pth} ║
+║• Support:{$tr} AW 2000$pth &$tr MK KHAIRIL$pth          ║
 ╚═════════════════════════════════════════╝{$end}".$t;
+$stat_xrp=true;
