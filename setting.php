@@ -19,7 +19,7 @@ $xrp =$br."
 ██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}     ██{$pth}╔════╝{$br}
 ██████{$pth}╔╝{$br}██{$pth}║{$br}██████{$pth}╔╝{$br}██████{$pth}╔╝{$br}██{$pth}║{$br}     █████{$pth}╗{$br}
 ██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}██{$pth}╔═══╝{$br} ██{$pth}╔═══╝{$br} ██{$pth}║{$br}     ██{$pth}╔══╝{$br}
-██{$pth}║{$br}  ██{$pth}║{$br}██{$pth}║{$br}██{$pth}║{$br}     ██{$pth}║{$br}     ███████{$pthh}╗{$br}███████{$pt}╗{$pth}
+██{$pth}║{$br}  ██{$pth}║{$br}██{$pth}║{$br}██{$pth}║{$br}     ██{$pth}║{$br}     ███████{$pth}╗{$br}███████{$pth}╗{$pth}
 ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝{$tr}
       AUTO CLAIM RIPPLE FAUCET{$red} v.1.0{$pth}
 ╔═════════════════════════════════════════╗
