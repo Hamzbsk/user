@@ -8,7 +8,7 @@ $big="
 ██{$pth}╔══{$tr}██{$pth}╗{$tr}██{$pth}║{$tr}██{$pth}║{$tr}   ██{$pth}║{$tr}  ██{$pth}║{$tr}   ██{$pth}║{$tr}   ██{$pth}║{$tr}██{$pth}╔═{$tr}██{$pth}╗{$tr} ██{$pth}╔══╝{$tr}  ██{$pth}║╚{$tr}██{$pth}╗{$tr}██{$pth}║{$tr}
 ██████{$pth}╔╝{$tr}██{$pth}║╚{$tr}██████{$pth}╔╝{$tr}  ██{$pth}║   ╚{$tr}██████{$pth}╔╝{$tr}██{$pth}║{$tr}  ██{$pth}╗{$tr}███████{$pth}╗{$tr}██{$pth}║ ╚{$tr}████{$pth}║
 ╚═════╝ ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
-[{$ijo}*{$pth}] Created :{$ijo} TN.Cocentz {$pth} [{$ijo}*{$pth}] Versions:{$red} v.2.0.1{$pth} [{$tr} ready{$pth} ]
+[{$ijo}*{$pth}] Created :{$ijo} TN.Cocentz {$pth} [{$ijo}*{$pth}] Version :{$red} v.2.0.1{$pth} [{$tr} ready{$pth} ]
 [{$ijo}*{$pth}] Youtube :{$red} Cocentz 404{$pth} [{$ijo}*{$pth}] Support :{$tr} AW 2000{$pth} &{$tr} MK KHAIRIL{$pth}
 ═══════════════════════════════════════════════════════════════".$t;
 $stat_big=true;
