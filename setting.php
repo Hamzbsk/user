@@ -16,7 +16,7 @@ $stat_big=true;
 
 $xrp =$br."
 ██████{$pth}╗{$br} ██{$pth}╗{$br}██████{$pth}╗{$br} ██████{$pth}╗{$br} ██{$pth}╗{$br}     ███████{$pth}╗{$br}
-██{$th}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}     ██{$pth}╔════╝{$br}
+██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}     ██{$pth}╔════╝{$br}
 ██████{$pth}╔╝{$br}██{$pth}║{$br}██████{$pth}╔╝{$br}██████{$pth}╔╝{$br}██{$pth}║{$br}     █████{$pth}╗{$br}
 ██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}██{$pth}╔═══╝{$br} ██{$pth}╔═══╝{$br} ██{$pth}║{$br}     ██{$pth}╔══╝{$br}
 ██{$pth}║{$br}  ██{$pth}║{$br}██{$pth}║{$br}██{$pth}║{$br}     ██{$pth}║{$br}     ███████{$pthh}╗{$br}███████{$pt}╗{$pth}
