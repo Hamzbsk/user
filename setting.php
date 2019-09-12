@@ -15,11 +15,11 @@ $stat_big=true;
 
 
 $xrp =$br."
-██████{$pth}╗{$br} ██{$pth}╗{$red}██████{$pth}╗{$br} ██████{$pth}╗{$br} ██{$pth}╗{$br}     ███████{$pth}╗{$br}
+██████{$pth}╗{$br} ██{$pth}╗{$br}██████{$pth}╗{$br} ██████{$pth}╗{$br} ██{$pth}╗{$br}     ███████{$pth}╗{$br}
 ██{$th}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}     ██{$pth}╔════╝{$br}
 ██████{$pth}╔╝{$br}██{$pth}║{$br}██████{$pth}╔╝{$br}██████{$pth}╔╝{$br}██{$pth}║{$br}     █████{$pth}╗{$br}
 ██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}██{$pth}╔═══╝{$br} ██{$pth}╔═══╝{$br} ██{$pth}║{$br}     ██{$pth}╔══╝{$br}
-██{$pth}║{$br}  ██{pth}║{$br}██{$pth}║{$br}██{$pth}║{$br}     ██{$pth}║{$br}     ███████{$pthh}╗{$br}███████{$pt}╗{$pth}
+██{$pth}║{$br}  ██{$pth}║{$br}██{$pth}║{$br}██{$pth}║{$br}     ██{$pth}║{$br}     ███████{$pthh}╗{$br}███████{$pt}╗{$pth}
 ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝{$tr}
       AUTO CLAIM RIPPLE FAUCET{$red} v.1.0{$pth}
 ╔═════════════════════════════════════════╗
