@@ -12,3 +12,18 @@ $big="
 [{$ijo}*{$pth}] Youtube :{$red} Cocentz 404{$pth} [{$ijo}*{$pth}] Support :{$tr} AW 2000{$pth} &{$tr} MK KHAIRIL{$pth}
 ═══════════════════════════════════════════════════════════════".$t;
 $stat_big=true;
+
+
+$xrp =$br."
+██████{$pth}╗{$br} ██{$pth}╗{$red}██████{$pth}╗{$br} ██████{$pth}╗{$br} ██{$pth}╗{$br}     ███████{$pth}╗{$br}
+██{$th}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}     ██{$pth}╔════╝{$br}
+██████{$pth}╔╝{$br}██{$pth}║{$br}██████{$pth}╔╝{$br}██████{$pth}╔╝{$br}██{$pth}║{$br}     █████{$pth}╗{$br}
+██{$pth}╔══{$br}██{$pth}╗{$br}██{$pth}║{$br}██{$pth}╔═══╝{$br} ██{$pth}╔═══╝{$br} ██{$pth}║{$br}     ██{$pth}╔══╝{$br}
+██{$pth}║{$br}  ██{pth}║{$br}██{$pth}║{$br}██{$pth}║{$br}     ██{$pth}║{$br}     ███████{$pthh}╗{$br}███████{$pt}╗{$pth}
+╚═╝  ╚═╝╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝{$tr}
+      AUTO CLAIM RIPPLE FAUCET{$red} v.1.0{$pth}
+╔═════════════════════════════════════════╗
+║• Created :$ijo TN.Cocentz  •{$tr}Thank ALLAH SWT{$pth} ║
+║• Youtube :{$red} Cocentz 404{$ijo} •Enjoy Your Life{$pth} ║
+║• Support :{$tr} AW 2000$pth &$tr MK KHAIRIL$pth         ║
+╚═════════════════════════════════════════╝{$end}".$t;
