@@ -28,3 +28,16 @@ $xrp =$br."
 ║• Support:{$tr} AW 2000$pth &$tr MK KHAIRIL$pth          ║
 ╚═════════════════════════════════════════╝{$end}".$t;
 $stat_xrp=true;
+
+$blash=$kn."
+      ┌┐ ┬┌┬┐┌─┐┌─┐┬{$red}  ┌┐ {$tr}┬  {$pk}┌─┐{$br}┌─┐{$ijo}┬ ┬{$kn}
+      ├┴┐│ │ │  │ ││{$red}  ├┴┐{$tr}│  {$pk}├─┤{$br}└─┐{$ijo}├─┤{$kn}
+      └─┘┴ ┴ └─┘└─┘┴{$red}  └─┘{$tr}┴─┘{$pk}┴ ┴{$br}└─┘{$ijo}┴ ┴{$pth}
+┌────└────────────[{$red} v1.1{$pth} ]───────────┘─────┐
+ Created:{$ijo} TN.Cocentz{$pth} │ Youtube:{$kn} Cocentz 404{$pth}
+ Support:{$pk} AW 2000{$pth} &&{$tr} MK KHAIRIL{$ijo} ✓{$red} SUBSCRIBE{$pth}
+└──────────────────────────────────────────┘
+  ▒░▒   ░  ▒ ░    ░   ░  ▒   ▒ ░░ ░░   ░ ▒░
+   ░    ░  ▒ ░  ░   ░      ▒ ░   ░   ░ ░
+   ░       ░        ░ ░    ░           ░".$t;
+$stat_btc=true;
