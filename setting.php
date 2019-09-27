@@ -1,7 +1,8 @@
 <?php
 $warn=$kn."[{$red}!{$kn}]{$red} WARNING!!\n{$pth}[{$red}!{$pth}] this is an illegal program !!\n{$pth}[{$red}!{$pth}] the risk is entirely borne by the user !!{$pth}".$t;
 
-$big="
+$big="[!] This script is in an update!\n[!] script ini sedang ada pembaruan tunggu updatenya!!\n\n";
+$bigg="
 {$tr}██████{$pth}╗{$tr} ██{$pth}╗{$tr} ██████{$pth}╗{$tr}████████{$pth}╗{$tr} ██████{$pth}╗{$tr} ██{$pth}╗{$tr}  ██{$pth}╗{$tr}███████{$pth}╗{$tr}███{$pth}╗{$tr}   ██{$pth}╗{$tr}
 ██{$pth}╔══{$tr}██{$pth}╗{$tr}██{$pth}║{$tr}██{$pth}╔════╝╚══{$tr}██{$pth}╔══╝{$tr}██{$pth}╔═══{$tr}██{$pth}{$tr}╗{$tr}██{$pth}║{$tr} ██{$pth}╔╝{$tr}██{$pth}╔════╝{$tr}████{$pth}╗{$tr}  ██{$tr}║{$tr}
 ██████{$pth}╔╝{$tr}██{$pth}║{$tr}██{$pth}║{$tr}  ███{$pth}╗{$tr}  ██{$pth}║{$tr}   ██{$pth}║{$tr}   ██{$pth}║{$tr}█████{$pth}╔╝{$tr} █████{$pth}╗{$tr}  ██{$pth}╔{$tr}██{$pth}╗{$tr} ██{$pth}║{$tr}
@@ -11,7 +12,7 @@ $big="
 [{$ijo}*{$pth}] Created :{$ijo} TN.Cocentz {$pth} [{$ijo}*{$pth}] Version :{$red} v.2.0.1{$pth} [{$tr} ready{$pth} ]
 [{$ijo}*{$pth}] Youtube :{$red} Cocentz 404{$pth} [{$ijo}*{$pth}] Support :{$tr} AW 2000{$pth} &{$tr} MK KHAIRIL{$pth}
 ═══════════════════════════════════════════════════════════════".$t;
-$stat_big=true;
+$stat_big=false;
 
 
 $xrp =$br."
