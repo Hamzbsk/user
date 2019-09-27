@@ -1,8 +1,8 @@
 <?php
-$warn=system(exit);
+
 $warnn=$kn."[{$red}!{$kn}]{$red} WARNING!!\n{$pth}[{$red}!{$pth}] this is an illegal program !!\n{$pth}[{$red}!{$pth}] the risk is entirely borne by the user !!{$pth}".$t;
 
-$big="[!] This script is in an update!\n[!] script ini sedang ada pembaruan tunggu updatenya!!\n\n";
+$big="[!] This script is in an update!\n[!] script ini sedang ada pembaruan tunggu updatenya!!\n\n".exit;
 
 $bigg="
 {$tr}██████{$pth}╗{$tr} ██{$pth}╗{$tr} ██████{$pth}╗{$tr}████████{$pth}╗{$tr} ██████{$pth}╗{$tr} ██{$pth}╗{$tr}  ██{$pth}╗{$tr}███████{$pth}╗{$tr}███{$pth}╗{$tr}   ██{$pth}╗{$tr}
