@@ -1,7 +1,7 @@
 <?php
-$warn="[!] This script is in an update!\n[!] script ini sedang ada pembaruan tunggu updatenya!!\n\n";
-
-$warnn=$kn."[{$red}!{$kn}]{$red} WARNING!!\n{$pth}[{$red}!{$pth}] this is an illegal program !!\n{$pth}[{$red}!{$pth}] the risk is entirely borne by the user !!{$pth}".$t;
+$warnn="[!] This script is in an update!\n[!] script ini sedang ada pembaruan tunggu updatenya!!\n\n";
+$supt=$pth."[{$ijo}*{$pth}] my support 👉$pk AW 2000$pth &$tr MK KHAIRIL".$pth.$t;
+$warn=$kn."[{$red}!{$kn}]{$red} WARNING!!\n{$pth}[{$red}!{$pth}] this is an illegal program !!\n{$pth}[{$red}!{$pth}] the risk is entirely borne by the user !!{$pth}".$t;
 
 
 $big="
@@ -41,3 +41,15 @@ $blash=$kn."
  Support:{$pk} AW 2000{$pth} &&{$tr} MK KHAIRIL{$ijo} ✓{$red} SUBSCRIBE{$pth}
 └──────────────────────────────────────────┘".$t;
 $stat_btc=true;
+
+
+$popstr=$kn."
+     /\
+____/_ \____$tr   AUTO CLAIM COIN XLM$red v.1.0$kn
+\  ___\ \  /$red ┌─┐{$kn}┌─┐{$ijo}┌─┐{$br}┌─┐┌┬┐┌─┐┬  ┬  ┌─┐┬─┐$kn
+ \/ /  \/ /$red  ├─┘{$kn}│ │{$ijo}├─┘{$br}└─┐ │ ├┤ │  │  ├─┤├┬┘$kn
+ / /\__/_/\ $red ┴  {$kn}└─┘{$ijo}┴  {$br}└─┘ ┴ └─┘┴─┘┴─┘┴ ┴┴└─$kn
+/__\ \_____\ {$tr}Channel Youtube 👉$pk Cocentz 404$kn
+    \  /
+     \/".$t;
+$stat_popstr=true;
